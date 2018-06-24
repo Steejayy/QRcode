@@ -1,0 +1,25 @@
+build site:
+  image: node:latest
+  stage: build
+  before_script:
+    - yarn
+  script:
+    - yarn build
+  artifacts:
+    expire_in: 1 week
+    paths:
+      - dist
+  only:
+    - master
+    - develop
+
+deploy to production:
+  environment: production
+  image: node:latest
+  stage: deploy
+  before_script:
+    - yarn
+  script:
+    - yarn deploy
+  only:
+    - master

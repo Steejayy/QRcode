@@ -1,0 +1,14 @@
+{
+  "welcome_message": "Agence Mondiale Anti-Contrefaçon",
+  "home": "Accueil",
+  "dashboard": "Dashboard",
+  "customs": "Douanes",
+  "container_id": "Contenaire ID",
+  "category": "Catégorie",
+  "origin": "Origine",
+  "weight": "Poids",
+  "shipment_date": "Date d'expédition",
+  "risk": "Risque",
+  "destination": "Destination",
+  "owner": "Propriétaire"
+}

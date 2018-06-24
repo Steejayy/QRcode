@@ -1,0 +1,14 @@
+{
+  "welcome_message": "Worldwide Anti-Counterfeiting Agency",
+  "home": "Home",
+  "dashboard": "Dashboard",
+  "customs": "Customs",
+  "container_id": "Container ID",
+  "category": "Category",
+  "origin": "Origin",
+  "weight": "Weight",
+  "container_type": "Container type",
+  "risk": "Risk",
+  "destination": "Destination",
+  "owner": "Owner"
+}

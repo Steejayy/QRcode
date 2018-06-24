@@ -1,0 +1,34 @@
+@import '../common/colors';
+
+.ui-textbox {
+  .ui-textbox__icon-wrapper .ui-icon {
+    color: $grey_dark;
+  }
+  .ui-textbox__label-text {
+    color: $grey_dark;
+    text-align: left;
+  }
+
+}
+
+.ui-select {
+  .ui-select__icon-wrapper .ui-icon {
+    color: $grey_dark;
+  }
+  .ui-select__label-text {
+    color: $grey_dark;
+    text-align: left;
+  }
+}
+
+.ui-radio-group {
+  .ui-radio-group__label-text {
+    color: $grey_dark;
+  }
+}
+
+.ui-datepicker {
+  .ui-datepicker__icon-wrapper .ui-icon {
+    color: $grey_dark;
+  }
+}
